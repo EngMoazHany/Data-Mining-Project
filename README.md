@@ -48,5 +48,5 @@ This is a **Data Mining** project focused on **Classification** and **Regression
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NA7RAWY/Data_Mining_project.git
+   git clone https://github.com/EngMoazHany/Data_Mining_project.git
    cd Data_Mining_project
